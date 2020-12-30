@@ -1,0 +1,15 @@
+{
+    "name": "yukdiorder/yuk-boilerplate",
+    "description": "Plugin template untuk wordpress",
+    "require-dev": {
+        "yukdiorder/yukframework": "^0.1.0"
+    },
+    "authors": [
+        {
+            "name": "Isnainy Nasrullah",
+            "email": "nain.daftar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
