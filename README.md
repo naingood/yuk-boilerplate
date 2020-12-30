@@ -1,2 +1,2 @@
-# yuk-boilerplate
+# Yuk Boilerplate
 Template plugin wordpress
