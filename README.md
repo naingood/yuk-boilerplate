@@ -1,2 +1,2 @@
 # Yuk Boilerplate
-Template plugin wordpress
+Template untuk mengembangkan plugin wordpress
